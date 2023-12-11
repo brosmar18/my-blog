@@ -4,4 +4,7 @@ body,
 .app {
     height: 100%;
     width: 100%;
+    background-color: #032539;
+    color: #FBF3F2;
+    margin: 0;
 }
